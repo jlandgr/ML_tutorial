@@ -1,4 +1,4 @@
-<!-- [Open solution in Colab](https://colab.research.google.com/github/jlandgr/ML_tutorial/blob/main/02_tutorial_JAX_solution.ipynb) -->
+[Open solution in Colab](https://colab.research.google.com/github/jlandgr/ML_tutorial/blob/main/02_tutorial_JAX_solution.ipynb)
 
 [Open today's notebook in Colab](https://colab.research.google.com/github/jlandgr/ML_tutorial/blob/main/02_tutorial_JAX.ipynb)
 
